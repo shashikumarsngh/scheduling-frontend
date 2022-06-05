@@ -1,21 +1,25 @@
-# scheduling-frontend
-Frontend React app
+# Scheduling-frontend
+Frontend Scheduling React apps
 
-## File created from create-react-app or self generated files
-.gitignore
-package.json // i added some libraries of course
-tsconfig.json
-yarn.lock
-public folder and all the files inside it.
+###Technology/Libraries used
+- React
+- Typescript
+- Ramda
+- SCSS
+- [react-calendar](https://www.npmjs.com/package/react-calendar)
+- [react-avatar](https://www.npmjs.com/package/react-avatar)
 
-src
+### File created from create-react-app or self generated files
+- .gitignore
+- package.json   // i added some libraries of course
+- tsconfig.json
+- yarn.lock
+- public folder and all the files inside it.
+- src
   - index.css
   - index.js
   - reportWebVitals.js
   - setupTests.js
-
-
-
 
 # Getting Started with Create React App
 
