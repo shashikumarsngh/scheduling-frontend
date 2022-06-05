@@ -1,0 +1,14 @@
+.App-header{
+    height: 70px;
+    background-color: darkcyan;
+    display: flex;
+    .App-logo{
+        height: inherit;
+    }
+
+    div {
+        padding: 1.5rem;
+        font-size: larger;
+        color: antiquewhite;
+    }
+}
